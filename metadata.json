@@ -1,0 +1,6 @@
+{
+  "name": "云南双城出行指南",
+  "description": "昆明与大理5天4晚精美互动式出行指南，包含每日路线、景点详情、美食推荐及互动打卡。合规、精致、实用！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
